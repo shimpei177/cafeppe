@@ -82,3 +82,6 @@ README〜ER図作成：5/28 〆切
 - Bootstrap
 - AWS
 - GoogleMapsJavascriptAPI
+
+画面遷移図
+https://www.figma.com/file/WhPYrkBeQibdBZnPlGeM0z/%E7%84%A1%E9%A1%8C?type=design&node-id=0%3A1&t=XigkRc6Wx5W1qdbi-1
